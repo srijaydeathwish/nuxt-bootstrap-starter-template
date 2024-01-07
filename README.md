@@ -30,19 +30,27 @@ To run the development server, use the following command:
 
 ```bash
 npm run dev
+```
 
-This will start the Nuxt 3 development server, and you can access your application at http://localhost:3000.
+This will start the Nuxt 3 development server, and you can access your application at [http://localhost:3000](http://localhost:3000).
 
-Additional Details
-Included Packages
-Nuxt 3: The project is built on Nuxt 3, a progressive JavaScript framework for building modern web applications. Nuxt 3 Documentation
+## Additional Details
 
-Bootstrap Vue Next: Instead of Tailwind CSS, this template integrates Bootstrap Vue Next for styling and UI components. Bootstrap Vue Next Documentation
+### Included Packages
 
-Development Commands
-npm run dev: Starts the Nuxt 3 development server.
-Additional Resources
-Nuxt 3 Documentation
-Bootstrap Vue Next Documentation
-License
-This project is licensed under the MIT License.
+- **Nuxt 3:** The project is built on Nuxt 3, a progressive JavaScript framework for building modern web applications. [Nuxt 3 Documentation](https://nuxt.com/docs/getting-started/introduction)
+
+- **Bootstrap Vue Next:** Instead of Tailwind CSS, this template integrates Bootstrap Vue Next for styling and UI components. [Bootstrap Vue Next Documentation](https://bootstrap-vue-next.github.io/bootstrap-vue-next/)
+
+### Development Commands
+
+- `npm run dev`: Starts the Nuxt 3 development server.
+
+### Additional Resources
+
+- [Nuxt 3 Documentation](https://nuxt.com/docs/getting-started/introduction)
+- [Bootstrap Vue Next Documentation](https://bootstrap-vue-next.github.io/bootstrap-vue-next/)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
