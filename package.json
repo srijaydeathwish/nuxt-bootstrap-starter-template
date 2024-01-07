@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-bootstrap-starter-template",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@bootstrap-vue-next/nuxt": "^0.15.5",
+    "bootstrap": "^5.3.2",
+    "bootstrap-vue-next": "^0.15.5",
+    "nuxt": "^3.9.0",
+    "sass": "^1.69.7",
+    "vue": "^3.4.5",
+    "vue-router": "^4.2.5"
+  }
+}
