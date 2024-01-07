@@ -42,6 +42,9 @@ This will start the Nuxt 3 development server, and you can access your applicati
 
 - **Bootstrap Vue Next:** Instead of Tailwind CSS, this template integrates Bootstrap Vue Next for styling and UI components. [Bootstrap Vue Next Documentation](https://bootstrap-vue-next.github.io/bootstrap-vue-next/)
 
+- **Customizing Bootstrap with SCSS:**
+You can customize Bootstrap using SCSS in this project.
+
 ### Development Commands
 
 - `npm run dev`: Starts the Nuxt 3 development server.
